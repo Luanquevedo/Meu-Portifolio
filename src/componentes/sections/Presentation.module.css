@@ -1,0 +1,17 @@
+.Presentation{
+    text-align: left;
+    margin-left: 15%;
+}
+.Presentation h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.Presentation h2{
+    font-size: 25px;
+}
+
+.Presentation p{
+    font-size: 15px;
+    font-weight: 400;
+}
